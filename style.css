@@ -1,0 +1,19 @@
+*{
+    margin: 0;padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+button{
+    background-color: #555555;
+    padding: 12px 30px;
+    color: #fff;
+    font-size: 1.5rem;
+    border-radius: 5px;
+}
